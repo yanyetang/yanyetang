@@ -1,6 +1,6 @@
 # Yanye Tang
 
-Machine learning and backend developer in Halifax, NS.
+Applied Machine learning developer in Halifax, NS.
 
 ## Projects
 
